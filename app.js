@@ -102,7 +102,7 @@ function timeStart(){
   }, 1000);
 }
 
-//diable textarea and wait for restart
+//diable textarea & wait for restart
 function timeOver(){
   inputItem.disabled = true;
   restartBtn.focus();
